@@ -1,0 +1,14 @@
+{
+  "name": "vite-typescript-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "rslib build"
+  },
+  "devDependencies": {
+    "@rsbuild/plugin-react": "^1.1.0",
+    "@rslib/core": "^0.2.2",
+    "typescript": "~5.7.2"
+  }
+}
